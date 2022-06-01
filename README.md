@@ -14,7 +14,6 @@ Website URL : https://alexander-realestate.netlify.app
 
 
 
-
 ![main-responsive](https://user-images.githubusercontent.com/91655432/171335208-82404ea0-52c0-4893-bdb0-6bf1ecc60565.jpg)
 
 
@@ -29,7 +28,6 @@ Website URL : https://alexander-realestate.netlify.app
 
 ![agebt](https://user-images.githubusercontent.com/91655432/171335249-85b12455-39d0-4581-8a11-9de58108f706.jpg)
 
-![agent_responsive](https://user-images.githubusercontent.com/91655432/171335260-29a10869-5d0a-46f9-8123-95741aab0fac.jpg)
 
 
 ![newsletter](https://user-images.githubusercontent.com/91655432/171335296-22c03187-5488-4aa0-b01d-d08b3a585760.jpg)
