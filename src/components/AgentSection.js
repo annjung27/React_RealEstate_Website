@@ -6,7 +6,7 @@ function Agent() {
   return (
     <div className='agent-container'>
       <div className='agent-img-wrapper'>
-        <img src='images/agent_1.jpg' className='agent-img'/>
+        <img src='images/agent_1.jpg' className='agent-img' alt='agent-img'/>
       </div>
       <div className='agent-info'>
         <h2 className='name'>ALEX MILLER</h2>
