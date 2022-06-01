@@ -9,7 +9,7 @@ function Card(props) {
                     <figure className='cards-item-img-box'>
                         <img
                         src={props.src}
-                        alt='card image'
+                        alt='card'
                         className='cards-item-img'
                         />
                     </figure>

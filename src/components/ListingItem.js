@@ -8,7 +8,7 @@ function ListingItem(props) {
             <Link className='listings__item__link' to={props.path}>
                 <figure className='listings__item__pic-wrap' data-category={props.label}>
                     <img 
-                    src={props.src} alt='travel image'
+                    src={props.src} alt='travel'
                     className='listings__item__img' />
                 </figure>
                 <div className='listings__item__info'>
