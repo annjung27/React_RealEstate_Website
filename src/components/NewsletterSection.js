@@ -20,7 +20,7 @@ function NewsletterSection() {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        if (email.length == 0){
+        if (email.length === 0){
             return null;
         }
         console.log('submitted!')
