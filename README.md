@@ -1,4 +1,4 @@
-# React Project. "Alexander Realty"
+# React Project -  "Alexander Realty"
 
 ## Landing page for Real estate website
 
