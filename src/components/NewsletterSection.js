@@ -42,6 +42,7 @@ function NewsletterSection() {
               className="btn"
               buttonStyle="btn--outline"
               buttonSize="btn--large"
+              path="#newsletter"
             >
               CONTACT
             </Button>
