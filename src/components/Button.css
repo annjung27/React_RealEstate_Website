@@ -1,43 +1,44 @@
 :root {
-    --white-color: #fff;
-    --dark-color: #41444B;
-    --btn-padding: 8px 30px;
+  --white-color: #fff;
+  --dark-grey-color: #41444b;
+  --btn-padding: 8px 30px;
 }
 
 .btn {
-    padding: var(--btn-padding);
-    border-radius: 2px;
-    outline: none;
-    border: none;
-    cursor: pointer;
+  padding: var(--btn-padding);
+  border-radius: 2px;
+  outline: none;
+  border: none;
+  cursor: pointer;
 }
 
 .btn--primary {
-    background-color: var(--white-color);
-    color: var(--dark-color);
-    border: 2px solid var(--white-color);
+  background-color: var(--white-color);
+  color: var(--dark-grey-color);
+  border: 2px solid var(--white-color);
 }
 
 .btn--outline {
-    background-color: transparent;
-    color: var(--white-color);
-    padding: var(--btn-padding);
-    border: 2px solid var(--white-color);
-    transition: all 0.3s ease-out;
+  background-color: transparent;
+  color: var(--white-color);
+  padding: var(--btn-padding);
+  border: 2px solid var(--white-color);
+  transition: all 0.3s ease-out;
 }
 
 .btn--medium {
-    padding: var(--btn-padding);
-    font-size: 16px;
+  padding: var(--btn-padding);
+  font-size: 16px;
 }
 
 .btn--large {
-    padding: var(--btn-padding);
-    font-size: 16px;
+  padding: var(--btn-padding);
+  font-size: 16px;
 }
 
-.btn-medium:hover, .btn-large:hover {
-    background-color: #fff;
-    color: var(--dark-color);
-    transition: all 0.3s ease-out;
+.btn-medium:hover,
+.btn-large:hover {
+  background-color: #fff;
+  color: var(--dark-grey-color);
+  transition: all 0.3s ease-out;
 }
