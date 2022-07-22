@@ -53,7 +53,7 @@ function NewsletterSection() {
           <div className="newsletter-subscribe">
             <h3>NEWSLETTER</h3>
             <p>
-              Sign up ofr our nesleter for exclusive news and market updates.
+              Sign up for our newsletter for exclusive news and market updates.
             </p>
             <form className="newsletter-form" onSubmit={handleSubmit}>
               <input
