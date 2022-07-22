@@ -52,6 +52,7 @@
 /* News Letter */
 
 .newsletter-wrapper {
+  border: 2px transparent;
   width: 40%;
   height: 60%;
   background-color: black;
@@ -128,6 +129,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    padding: 2rem 0;
   }
 
   .contact-wrapper {
