@@ -23,22 +23,22 @@ function Navbar() {
           <div className="navbar-right">
             <ul className={click ? "nav-menu active" : "nav-menu"}>
               <li className="nav-item" onClick={closeMobileMenu}>
-                <Link to="#main" smooth="true" className="nav-links">
+                <Link to="#main" className="nav-links">
                   Home
                 </Link>
               </li>
               <li className="nav-item" onClick={closeMobileMenu}>
-                <Link to="#cards" smooth="true" className="nav-links">
+                <Link to="#cards" className="nav-links">
                   Services
                 </Link>
               </li>
               <li className="nav-item" onClick={closeMobileMenu}>
-                <Link to="#properties" smooth="true" className="nav-links">
+                <Link to="#properties" className="nav-links">
                   Properties
                 </Link>
               </li>
               <li className="nav-item" onClick={closeMobileMenu}>
-                <Link to="#newsletter" smooth="true" className="nav-links">
+                <Link to="#newsletter" className="nav-links">
                   Contact
                 </Link>
               </li>
