@@ -50,4 +50,8 @@
     width: 100%;
     padding: 5rem;
   }
+
+  .agent-img {
+    max-width: 960px;
+  }
 }
