@@ -84,6 +84,10 @@ h1 {
   }
 }
 
+.cards-item-img {
+  max-width: fit-content;
+}
+
 @media screen and (max-width: 720px) {
   .cards {
     height: 100%;

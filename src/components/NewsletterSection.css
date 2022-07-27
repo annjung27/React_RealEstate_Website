@@ -143,6 +143,14 @@
     margin: 10px 0;
   }
 
+  .contact-agent h3 {
+    font-size: 20px;
+  }
+
+  .contact-agent p {
+    font-size: 12px;
+  }
+
   .newsletter-wrapper {
     width: 80%;
     height: 50%;
@@ -152,5 +160,18 @@
     align-items: center;
     justify-content: center;
     margin: 10px 0;
+    padding: 20px 0;
+  }
+
+  .newsletter-subscribe h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-weight: 400;
+    letter-spacing: 0.3rem;
+  }
+
+  .newsletter-subscribe p {
+    font-size: 12px;
+    margin-bottom: 25px;
   }
 }

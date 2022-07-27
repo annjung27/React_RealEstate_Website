@@ -122,6 +122,9 @@ h1 {
     font-weight: 400;
     letter-spacing: 0.3rem;
   }
+  .listings__item__img {
+    max-width: 500px;
+  }
 
   .listings__items {
     display: flex;
